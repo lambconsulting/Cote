@@ -1,0 +1,7 @@
+# Exclusions
+archive
+*.log
+correspondence
+writing
+Thumbs.db
+*bronchial*.docx
